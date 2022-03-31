@@ -74,7 +74,7 @@ Luego de culminar el tiempo requerido:
 ### Función 12:
 Luego del periodo de tiempo de purga se activa el motor que mueve el volante giratorio y deja la puerta semiabierta. Se activa un temporizador por 60 segundos y se muestra un mensaje para que espere 60seg con el contador.
 
-### Función: 
+### Función 13: 
 Luego de los 60 segundos Muestra en pantalla “Retirar materiales y Apagar el sistema”.
 
 ***
